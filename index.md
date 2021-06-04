@@ -11,3 +11,6 @@ The goal was to know what apps I spent my week on.
  * Ipad
  * Procreate
  * Paper and Pen 
+
+## Result
+<a href="https://raw.githubusercontent.com/lagom-QB/Phone-habits/gh-pages/WhatsApp%20Image%202021-06-04%20at%2001.55.56.jpeg" target="_blank">Results 🖼️ </a>
