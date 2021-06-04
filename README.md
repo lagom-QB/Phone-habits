@@ -1,4 +1,4 @@
-# Phone-habits
+# Phone-habits 📱
 
 ## Description
 To tickle my creative side, I decided to make a hand drawn card of apps I used on my phone for 24|05 - 30|05. 
