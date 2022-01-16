@@ -13,4 +13,4 @@ The goal was to know what apps I spent my week on.
  * Paper and Pen 
 
 ## Result
-> <img alt="image" src="https://raw.githubusercontent.com/lagom-QB/Phone-habits/gh-pages/WhatsApp%20Image%202021-06-04%20at%2001.55.56.jpeg">
+<img src="https://raw.githubusercontent.com/lagom-QB/Phone-habits/gh-pages/WhatsApp%20Image%202021-06-04%20at%2001.55.56.jpeg">
